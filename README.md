@@ -1,4 +1,6 @@
-# Automated Personalized Pancreatic Cystic Lesion Management: A Multimodal Large Language Model Approach with Dynamic-Knowledge Retrieval <br>
+# Multimodal Large Language Model With Knowledge Retrieval Using Flowchart Embedding for Forming Follow-Up Recommendations for Pancreatic Cystic Lesions <br>
+
+Publication: https://ajronline.org/doi/abs/10.2214/ajr.25.32729
 
 Pipeline overview:
 <br>
